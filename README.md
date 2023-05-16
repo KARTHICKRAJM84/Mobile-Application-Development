@@ -128,8 +128,12 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ## OUTPUT
-
-
+![image](mobileex1.jpg)
+![image](ex1.jpg)
+![image](ex2.jpg)
+![image](ex3.jpg)
+![image](ex4.jpg)
+![image](ex5.jpg)
 
 
 ## RESULT
