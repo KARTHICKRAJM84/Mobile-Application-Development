@@ -128,12 +128,13 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ## OUTPUT
-![image](mobileex1.jpg)
-![image](ex1.jpg)
-![image](ex2.jpg)
-![image](ex3.jpg)
-![image](ex4.jpg)
-![image](ex5.jpg)
+
+![mobileex1](https://github.com/AadhithyaRaj/Mobile-Application-Development/assets/128829484/95916576-0c69-4d76-8e21-4ba4766fb116)
+![ex1](https://github.com/AadhithyaRaj/Mobile-Application-Development/assets/128829484/b6dd4da4-5e40-4a22-b80f-946feba8676c)
+![ex2](https://github.com/AadhithyaRaj/Mobile-Application-Development/assets/128829484/9504691a-3147-4cac-8a84-96135db7dd18)
+![ex3](https://github.com/AadhithyaRaj/Mobile-Application-Development/assets/128829484/46f12c8f-c1b1-4c9f-b3cb-138c6f41746a)
+![ex4](https://github.com/AadhithyaRaj/Mobile-Application-Development/assets/128829484/173469a9-0ebd-4fc0-92d5-f493945b6393)
+![ex5](https://github.com/AadhithyaRaj/Mobile-Application-Development/assets/128829484/65cbbf79-49b2-4082-8d4f-1eb63f301c07)
 
 
 ## RESULT
