@@ -129,15 +129,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![Exp_1 AM]("C:\Users\Aadhithya\Pictures\Screenshots\mobileex1.png")
-![Exp_1 MA](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/d4ebad4f-8260-4aa3-9607-d78006345e39)
-![1  Exp_1 Create](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/c0312c53-3bec-44b8-ac5f-7e15111301fe)
-![2  Exp_1 Sart](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/8f399638-67b3-455e-9d3a-45fea19c6435)
-![3  Exp_1 Resume](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/099ca09d-d84c-44be-93ef-a83ae9db1a84)
-![4  Exp_1 Restart](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/b127b62a-99b1-456a-bf61-81384e1e198e)
-![5  Exp_1 Pause](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/2a58676a-e155-4b74-9773-1321c45bb4e1)
-![6  Exp_1 Stop](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/3cfb64f8-d2bf-455f-8e69-7c92d4f62518)
-![7  Exp_1 Destroy](https://github.com/Anbuselvan04/Mobile-Application-Development/assets/119410896/d39c3c0b-e076-45cc-8ba8-550caa04b2fa)
 
 
 
